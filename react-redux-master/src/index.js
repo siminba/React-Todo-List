@@ -8,6 +8,8 @@ import {Provider} from 'react-redux'
 import myReducers from './reducers'
 
 
+
+
 //Create the store
 const myStore = createStore(myReducers);
 
